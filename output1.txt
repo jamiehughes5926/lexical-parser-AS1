@@ -1,0 +1,19 @@
+Reading commands from examples/example1.txt...
+The cat sat on the mat by itself.
+Wordcount is: 8
+Words are:
+The
+cat
+sat
+on
+the
+mat
+by
+itself
+Length is: 33
+Identifier list (3):
+one: The cat
+two: sat on the mat
+sentence: The cat sat on the mat by itself.
+cat The
+Exiting the interpreter.
